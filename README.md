@@ -4,9 +4,8 @@ Automate Data Entry, Stock Management &amp; GST Invoice Generation For Small Bus
 
 > Automate Data Entry, Stock Management & GST Invoicing. Save 10+ hours/week.
 
-### 🎥 Demo GIF
 <p align="center">
-  <img src="./demo.gif" width="700">
+  <img src="https://raw.githubusercontent.com/kumar-vashav/kumar-vashav/main/VID_20260705_104803.gif" width="750" height="400" alt="Excel Tool Demo"/>
 </p>
 
 ### ⚡ Features
